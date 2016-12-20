@@ -1,0 +1,5 @@
+﻿  Winlinez.cpp
+e:\programming\visual studio 2015\homework\project4\project4\winlinez.cpp(355): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\programming\visual studio 2015\homework\project4\project4\winlinez.cpp(406): warning C4101: “t2”: 未引用的局部变量
+  Project4.vcxproj -> E:\Programming\visual studio 2015\Homework\Project4\Debug\Project4.exe
+  Project4.vcxproj -> E:\Programming\visual studio 2015\Homework\Project4\Debug\Project4.pdb (Partial PDB)
